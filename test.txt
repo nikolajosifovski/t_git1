@@ -3,3 +3,4 @@ register
 search
 pdp
 plp
+Cart tests
